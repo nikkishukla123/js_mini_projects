@@ -1,0 +1,32 @@
+/* #box{
+    background-color: rgb(62, 159, 142);
+    height: 300px;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+}
+button{
+    background-color: red;
+    color: white;
+}
+p{
+    background-color: rgb(225, 36, 225);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(245, 260, 10);
+}
+.newclass{
+    background-color: green;
+} */
+
+button{
+    background-color: rgb(230, 0, 255);
+    color: white;
+}
+div{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}

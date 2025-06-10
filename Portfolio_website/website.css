@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+header {
+    background: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    margin: 0 1em;
+    text-decoration: none;
+}
+section {
+    padding: 2em;
+    margin: 1em 0;
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    background: #333;
+    color: #fff;
+}
+.portfolio-item, .product {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin: 1em 0;
+}
